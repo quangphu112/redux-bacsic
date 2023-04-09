@@ -1,0 +1,29 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "fullname": "Quang Phu",
+      "address": "Vung Tau"
+    },
+    {
+      "id": 2,
+      "fullname": "Quang Phu",
+      "address": "Vung Tau"
+    },
+    {
+      "id": 3,
+      "fullname": "Quang Phu",
+      "address": "Vung Tau"
+    },
+    {
+      "id": 3,
+      "fullname": "Quang Phu",
+      "address": "Vung Tau"
+    },
+    {
+      "id": 4,
+      "fullname": "Quang Phu",
+      "address": "Vung Tau"
+    }
+  ]
+}
