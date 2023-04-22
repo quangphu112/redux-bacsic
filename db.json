@@ -1,29 +1,29 @@
 {
-  "user": [
+  "company": [
     {
-      "id": 1,
-      "fullname": "Quang Phu",
-      "address": "Vung Tau"
+      "id": "1",
+      "name": "Company",
+      "address": "Company12"
     },
     {
-      "id": 2,
-      "fullname": "Quang Phu",
-      "address": "Vung Tau"
+      "id": "2",
+      "name": "Company2",
+      "address": "Company2"
     },
     {
-      "id": 3,
-      "fullname": "Quang Phu",
-      "address": "Vung Tau"
+      "id": "3",
+      "name": "Company3",
+      "address": "Company3"
     },
     {
-      "id": 3,
-      "fullname": "Quang Phu",
-      "address": "Vung Tau"
+      "id": "4",
+      "name": "Company1",
+      "address": "Company1"
     },
     {
-      "id": 4,
-      "fullname": "Quang Phu",
-      "address": "Vung Tau"
+      "id": "5",
+      "name": "Company1",
+      "address": "Company1"
     }
   ]
 }
